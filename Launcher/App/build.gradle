@@ -12,6 +12,7 @@ android {
     android.buildFeatures.buildConfig=true
 
     defaultConfig {
+        applicationId 'com.clrealy.qool'
         compileSdk = 36
         minSdkVersion 24
         targetSdkVersion 37

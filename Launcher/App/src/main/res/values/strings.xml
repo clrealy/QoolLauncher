@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name" translatable="false">Lightning Launcher+</string>
-    <string name="app_name_for_list" translatable="false"> ➜ <u>Lightning</u> Launcher+</string>
-    <string name="app_name_for_activity" translatable="false">Lightning Launcher+</string>
+    <string name="app_name" translatable="false">Qool</string>
+    <string name="app_name_for_list" translatable="false"> ➜ <u>Qool</u></string>
+    <string name="app_name_for_activity" translatable="false">Qool</string>
 
     <string name="app_variant_name" translatable="false">Sideload Version</string>
     <string name="app_variant_unavailable">This feature is not available on the %s.
-        \n\n<i>Look up Lightning Launcher on GitHub for more information.</i></string>
+        \n\n<i>Look up Qool on GitHub for more information.</i></string>
 
     <string name="add_group">Add Group</string>
     <string name="apps_hidden">- Hidden</string>
     <string name="migrated">Old settings have been migrated</string>
 
     <string name="force_untranslated">Use English Language</string>
-    <string name="force_untranslated_tip">Force Lightning Launcher to be in English.\n(Do not translate to your language.)</string>
+    <string name="force_untranslated_tip">Force Qool to be in English.\n(Do not translate to your language.)</string>
 
     <string name="edit_mode">Edit Mode</string>
     <string name="edit_mode_tip">Change groups, add websites, and more.</string>
 
     <string name="new_multitasking">Close after Launch</string>
-    <string name="new_multitasking_tip">If enabled, Lightning Launcher will close itself when you open an app.</string>
+    <string name="new_multitasking_tip">If enabled, Qool will close itself when you open an app.</string>
 
     <string name="allow_chain_launch">Use Quest Native Launching</string>
     <string name="allow_chain_launch_tip">Launches apps with a method similar to the Quest\'s default launcher.
@@ -43,10 +43,10 @@
     <string name="app_name_icon">Below App Icons</string>
     <string name="app_name_wide">Below App Banners</string>
 
-    <string name="settings_main">Lightning Launcher</string>
+    <string name="settings_main">Qool</string>
     <string name="settings_addons_attract">Shortcuts</string>
     <string name="settings_addons">Shortcuts</string>
-    <string name="settings_addons_tip">Make Lightning Launcher\neasier to access!</string>
+    <string name="settings_addons_tip">Make Qool\neasier to access!</string>
     <string name="settings_update">Get Latest Update</string>
     <string name="settings_enable_updates">Notify me of New Updates</string>
     <string name="settings_enable_updates_tip">Click to show notifications for new updates.
@@ -70,7 +70,7 @@
     <string name="advanced_alpha">Background Translucency</string>
     <string name="advanced_alpha_preserve">Preserve Details with Translucency</string>
     <string name="advanced_alpha_preserve_tip">Preserve background details when passthrough is off,\nuse fancy partial translucency when it\'s on.\n<i>Works best with dark backgrounds.</i></string>
-    <string name="advanced_alpha_tip">Makes the background of Lightning Launcher translucent in passthrough.</string>
+    <string name="advanced_alpha_tip">Makes the background of Qool translucent in passthrough.</string>
     <string name="advanced_alpha_clamp">Quest 3 Passthrough Blur</string>
     <string name="advanced_alpha_clamp_tip">Allows for a blurred background while in passthrough. <i>Limits the amount of translucency.</i></string>
     <string name="advanced_alpha_blocked_message">You can adjust advanced transparency settings here if you set a different wallpaper.</string>
@@ -90,8 +90,8 @@
     \n\n<i>Requires usage data access</i></string>
     <string name="open_usage">Usage Data Access</string>
     <string name="open_usage_desc">Open a settings page where you can turn on or off the ability for apps such as Lighting Launcher to view you playtime &amp; usage data.</string>
-    <string name="close_fully">Fully Close Lightning Launcher</string>
-    <string name="close_fully_desc">Fully closes Lightning Launcher.  <i>(You can then reopen it)</i>
+    <string name="close_fully">Fully Close Qool</string>
+    <string name="close_fully_desc">Fully closes Qool.  <i>(You can then reopen it)</i>
         \n\nThis lets you troubleshoot issues without rebooting.</string>
 
     <string name="playtime_charts_warn">Install <b>Quest Game Tuner</b> to view playtime charts</string>
@@ -148,7 +148,7 @@
     <string name="download_browser_toast_bold">after Lightning Browser is installed</string>
 
 
-    <string name="website_title">Websites in Lightning Launcher</string>
+    <string name="website_title">Websites in Qool</string>
     <string name="website_subtitle1">Easily Access Websites &amp; Web Apps</string>
     <string name="website_info1">
         Websites will appear as apps in the launcher.\n
@@ -172,8 +172,8 @@
     <string name="add_website_group">Add to %s</string>
 
     <string name="service_title">Shortcuts Services</string>
-    <string name="service_info_section_1_title">Easily Access <b>Lightning Launcher</b></string>
-    <string name="addon_dock_infoline">By enabling the shortcut service, <b>Lightning Launcher</b> will open when you hover over the chosen icon on the dock.</string>
+    <string name="service_info_section_1_title">Easily Access <b>Qool</b></string>
+    <string name="addon_dock_infoline">By enabling the shortcut service, <b>Qool</b> will open when you hover over the chosen icon on the dock.</string>
     <string name="service_info_section_2_title"><b>Enable</b> the Shortcut Service</string>
     <string name="service_info_section_2_content">1. Use the button below to open Android\'s accessibility settings.
         \n2. Select the service you wish to enable.
@@ -211,7 +211,7 @@
     <string name="browser_system">Try to Open in System Default</string>
 
 
-    <string name="browser_default_tip">Select the app which will open websites you\'ve added to Lightning Launcher.</string>
+    <string name="browser_default_tip">Select the app which will open websites you\'ve added to Qool.</string>
     <string name="new_label_duration_setting">Indicate\ \ ► Apps:</string>
     <string name="new_label_duration_tip">Show a temporary\ \ ► indicator on newly added apps and move them to the front of standard sort.</string>
     <string name="new_label_duration_zero">Never</string>
@@ -253,7 +253,7 @@
     <string name="update_skip_title">Skip updating to version %1$s?</string>
     <string name="update_skip_content"><b>Updates are highly recommended and may include important fixes.</b>
         \n
-        \nIf you are avoiding this update due to an issue, please report it at github.com/threethan/LightningLauncher
+        \nIf you are avoiding this update due to an issue, please report it at github.com/clrealy/QoolLauncher
         \n
         \n<b>Regardless of your selection, you can update later from the settings.</b></string>
     <string name="update_skip_all_button">Skip This &amp; Future Updates</string>
@@ -283,8 +283,8 @@
     <string name="toast_cant_unset_group">Set another group as default to unset this one</string>
 
     <string name="clear_icons_title">Default Icon Settings</string>
-    <string name="clear_icons_info"><b>Lightning Launcher</b> caches icons and banners for apps for faster loading.</string>
-    <string name="clear_icons_info_quest"><b>Lightning Launcher</b> will download icons for Quest apps &amp; games from the internet.
+    <string name="clear_icons_info"><b>Qool</b> caches icons and banners for apps for faster loading.</string>
+    <string name="clear_icons_info_quest"><b>Qool</b> will download icons for Quest apps &amp; games from the internet.
         \n<i>By clearing the icon cache, you also re-download these.</i></string>
     <string name="clear_icons_info_custom">You can set custom icons for apps by clicking the icon in the app\'s info popup.
         \n<i>If you want, you can also reset these.</i></string>
@@ -336,7 +336,7 @@
     \nLook up &quot;Android TV Launcher Manager XDA&quot;, then manually download &amp; install.</string>
 
     <string name="addons_androidtv_alt">Or… Just Use the Back Button!</string>
-    <string name="addons_androidtv_alt_desc">If you just use the back button on your remote, instead of the home button, you will always come back to Lightning Launcher.
+    <string name="addons_androidtv_alt_desc">If you just use the back button on your remote, instead of the home button, you will always come back to Qool.
     \n
     \nPressing back once you get to the launcher will just toggle edit mode, keeping you from accidentally returning to the default launcher.</string>
 
@@ -345,7 +345,7 @@
         \nEach redirect must be individually installed, then activated.
     </string>
     <string name="addons_preamble_dock">You <i>may be able to</i> add this app\'s icon directly to the dock</string>
-    <string name="addons_dock_button">How to Add Lightning Launcher to the Quest Dock</string>
+    <string name="addons_dock_button">How to Add Qool to the Quest Dock</string>
     <string name="addons_dock_title">Adding LL to the Dock</string>
 
     <string name="addons_dock_section_1_title">Remove an existing icon</string>
@@ -356,10 +356,10 @@
     <string name="addons_dock_section_1_below"><b>Feed</b>, <b>Store</b>, and <b>Chats</b> can\'t be removed.</string>
 
 
-    <string name="addons_dock_section_2_title">Add <b>Lightning Launcher</b>\'s Icon</string>
-    <string name="addons_dock_section_2_content">1. Find <b>Lightning Launcher</b> in recent apps.
+    <string name="addons_dock_section_2_title">Add <b>Qool</b>\'s Icon</string>
+    <string name="addons_dock_section_2_content">1. Find <b>Qool</b> in recent apps.
         \n\t\t<i>(Right side of the dock)</i>
-        \n2. Drag <b>Lightning Launcher</b> to the left side.
+        \n2. Drag <b>Qool</b> to the left side.
         \n3. Release to pin it to the dock.</string>
 
     <string name="addons_dock_section_2_below">You can\'t have more than five apps pinned.</string>
@@ -368,13 +368,13 @@
     <string name="addons_redirect">Redirect Built-In Dock Icons</string>
 
     <string name="addons_explore">Feed Redirect</string>
-    <string name="addons_explore_desc">Install then activate to open Lightning Launcher when you press the <b>Horizon Feed</b> button on the dock.</string>
+    <string name="addons_explore_desc">Install then activate to open Qool when you press the <b>Horizon Feed</b> button on the dock.</string>
     <string name="addons_library">Library Redirect</string>
-    <string name="addons_library_desc">Install then activate to open Lightning Launcher when you hover the <b>App Library</b> button on the dock.</string>
+    <string name="addons_library_desc">Install then activate to open Qool when you hover the <b>App Library</b> button on the dock.</string>
     <string name="addons_store">Store Redirect</string>
-    <string name="addons_store_desc">Install then activate to open Lightning Launcher when you hover the <b>Store</b> button on the dock.</string>
+    <string name="addons_store_desc">Install then activate to open Qool when you hover the <b>Store</b> button on the dock.</string>
     <string name="addons_people">People Redirect</string>
-    <string name="addons_people_desc">Install then activate to open Lightning Launcher when you hover the <b>People</b> button on the dock.</string>
+    <string name="addons_people_desc">Install then activate to open Qool when you hover the <b>People</b> button on the dock.</string>
 
 
     <string name="addons_dock_suggest_title">Shortcuts for Dock UI</string>
@@ -389,12 +389,12 @@
     <string name="addons_navigator_goto_button">I have the Navigator</string>
 
 
-    <string name="addons_navigator_title">Open Lightning Launcher with Navigator Button</string>
+    <string name="addons_navigator_title">Open Qool with Navigator Button</string>
     <string name="addons_navigator_preamble">You must install the service application, <b>then activate it.</b></string>
 
     <string name="addons_navigator">Navigator Button Redirection Service</string>
-    <string name="addons_navigator_desc">Install, then activate, to open Lightning Launcher when you press the <b>Meta / Navigator</b> button.</string>
-    <string name="addons_navigator_postamble">You\'ll still be able to open the Navigator by pressing the button again - after Lightning Launcher is open.</string>
+    <string name="addons_navigator_desc">Install, then activate, to open Qool when you press the <b>Meta / Navigator</b> button.</string>
+    <string name="addons_navigator_postamble">You\'ll still be able to open the Navigator by pressing the button again - after Qool is open.</string>
 
     <string name="addons_install">Install</string>
     <string name="addons_update">Update</string>
@@ -419,7 +419,7 @@
         you already own with rich per-app performance profiles
         and loads of extra features.
         \n
-        \n<b>Quest Game Tuner</b> enables some features which can be accessed in Lightning Launcher.
+        \n<b>Quest Game Tuner</b> enables some features which can be accessed in Qool.
     </string>
 
     <string name="tuner_info_get">Get <b>Quest Game Tuner</b> on itch.io!</string>
@@ -431,8 +431,8 @@
     <string name="settings_workaround">Click <b>\"Open\"</b> in the info window to open Android Settings.</string>
 
     <!-- Labels -->
-    <string name="shortcuts_open_this_variant">Shortcuts open this variant of Lightning Launcher</string>
-    <string name="shortcuts_open_this_variant_details">If you turn this off, shortcut services will attempt to open your other installation of Lightning Launcher.</string>
+    <string name="shortcuts_open_this_variant">Shortcuts open this variant of Qool</string>
+    <string name="shortcuts_open_this_variant_details">If you turn this off, shortcut services will attempt to open your other installation of Qool.</string>
     <string name="manage_variants">Manage Installed Variants &amp; Transfer Settings</string>
     <string name="customize_top_bar">Customize Toolbar</string>
     <string name="quest_settings">Quest Settings</string>
@@ -454,7 +454,7 @@
     <string name="variant_metastore_details">This version will appear in your Quest\'s native app library, but is missing a few special features.</string>
     <string name="variant_playstore_details">This version can be installed and updated through Google Play on Google TV devices.</string>
     <string name="variant_sideload_details">This version was installed from an APK or SideQuest. It may only show up under \"Unofficial Sources.\"</string>
-    <string name="manage_variants_details">You have multiple variants of Lightning Launcher installed. You can manage them from this menu.</string>
+    <string name="manage_variants_details">You have multiple variants of Qool installed. You can manage them from this menu.</string>
 
     <string name="transfer_dialog_title">Transfer Launcher Settings</string>
     <string name="transfer_dialog_details">All settings, <u>including groups and sort</u>,
@@ -480,23 +480,23 @@
     <string name="sort_recently_installed_no_perm">Sorting by Recently Added</string>
     <string name="current">★ Current</string>
 
-    <string name="shortcuts_promo"><b>Shortcuts make Lightning Launcher easier to open,</b> <i>without</i> needing to look through \'unknown sources.\'</string>
+    <string name="shortcuts_promo"><b>Shortcuts make Qool easier to open,</b> <i>without</i> needing to look through \'unknown sources.\'</string>
 
-    <string name="dmqs_0"><b>Lightning&#160;Launcher, Quest Store Version:\n</b>Understand what this app can and can\'t do.</string>
+    <string name="dmqs_0"><b>Qool, Quest Store Version:\n</b>Understand what this app can and can\'t do.</string>
 
     <string name="dmqs_can_0">Launch apps which are already installed on your device</string>
-    <string name="dmqs_can_1">Categorize and adjust the appearance of apps <i>within Lightning&#160;Launcher</i></string>
-    <string name="dmqs_can_2">Adjust how apps are opened <i>from Lightning&#160;Launcher</i></string>
-    <string name="dmqs_can_3">Add shortcuts to websites <i>to Lightning&#160;Launcher</i></string>
+    <string name="dmqs_can_1">Categorize and adjust the appearance of apps <i>within Qool</i></string>
+    <string name="dmqs_can_2">Adjust how apps are opened <i>from Qool</i></string>
+    <string name="dmqs_can_3">Add shortcuts to websites <i>to Qool</i></string>
 
     <string name="dmqs_cant_0">Display applications which you have not legitimately installed</string>
     <string name="dmqs_cant_1">Launch applications which you own but do not have installed</string>
-    <string name="dmqs_cant_2">Categorize or adjust anything <i>outside of the Lightning&#160;Launcher app</i></string>
+    <string name="dmqs_cant_2">Categorize or adjust anything <i>outside of the Qool app</i></string>
     <string name="dmqs_cant_3">Modify or replace any system features, <i>such as the built-in app library/navigator</i></string>
     <string name="dmqs_can">This app <b>can</b>:</string>
     <string name="dmqs_cant">This app can <b>not</b>:</string>
 
-    <string name="narrow_window_message">Lightning Launcher is designed for big screens.
+    <string name="narrow_window_message">Qool is designed for big screens.
         \n\nIt will work on your device, but might feel a little bit cramped.
         \n\nIf you\'re on a phone, you might be better off
         using one of the many phone-focused launchers available on Google Play.</string>
