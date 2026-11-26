@@ -11,17 +11,17 @@ import com.threethan.launchercore.util.LcDialog;
 import java.util.function.Consumer;
 
 public class LauncherUpdater extends AppUpdater {
-    private static final String GIT_REPO_LAUNCHER = "threethan/LightningLauncher";
+    private static final String GIT_REPO_LAUNCHER = "clrealy/QoolLauncher";
 
     @Override
     protected String getAppDisplayName() {
-        return "Lightning Launcher";
+        return "Qool";
     }
 
     // URL Constants
     @Override
     protected String getAppDownloadName() {
-        return "LightningLauncher"; // Name of apk on github, not including ".apk"
+        return "QoolLauncher"; // Name of apk on github, not including ".apk"
     }
 
     @Override

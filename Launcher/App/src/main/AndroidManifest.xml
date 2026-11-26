@@ -108,7 +108,7 @@
 
         <provider
             android:name=".provider.ShortcutStateProvider"
-            android:authorities="com.threethan.launcher.shortcutStateProvider"
+            android:authorities="${applicationId}.shortcutStateProvider"
             android:exported="true"
             android:grantUriPermissions="true"
             tools:ignore="ExportedContentProvider" />
@@ -223,7 +223,7 @@
         <provider
             android:name="com.threethan.launcher.provider.QuestAppMenuProvider"
             android:exported="true"
-            android:authorities="com.threethan.launcher.appMenuProvider"
+            android:authorities="${applicationId}.appMenuProvider"
             android:grantUriPermissions="true"
             tools:ignore="ExportedContentProvider">
         </provider>
